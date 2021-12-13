@@ -1,2 +1,2 @@
 # PDF-page-rotation
-This repository will make let you to  rotate a specific page
+This repository walk you through to rotate any arbitrary page in pdf file
